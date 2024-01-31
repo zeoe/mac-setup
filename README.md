@@ -31,11 +31,9 @@ https://www.youtube.com/watch?v=ZcVdpkSako4
 - brew install --cask brackets
 
 ## SSH
-- Download SSH from cloud
-- Bienfait
-- Github
-- Permission ändern chmod 600 
-- SSH Config kopieren vom Repo
-
+- download private key from cloud (Bienfait, github)
+- change permisson to chmod 600 
+- [copy ssh config](https://github.com/zeoe/mac-setup/blob/main/config)
+  
 ## Disable cmdc
 - https://stackoverflow.com/questions/22501527/how-to-disable-cmdq-on-mac
