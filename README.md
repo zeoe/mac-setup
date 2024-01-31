@@ -1,4 +1,4 @@
-# mac-setup
+# Mac Setup
 
 https://www.youtube.com/watch?v=ZcVdpkSako4
 
