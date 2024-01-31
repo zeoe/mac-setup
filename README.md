@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=ZcVdpkSako4
 - brew install --cask steam
 - brew install --cask discord
 - brew install --cask intellij-idea
+- brew install --cask brackets
 
 ## SSH
 - Download SSH from cloud
