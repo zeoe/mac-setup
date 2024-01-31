@@ -1,14 +1,12 @@
 # Mac Setup
 
-https://www.youtube.com/watch?v=ZcVdpkSako4
-
 ## Homebrew
 - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 - (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/zerdusozkan/.zprofile
 - eval "$(/opt/homebrew/bin/brew shellenv)"
 - brew help
 
-## ohmyz sh
+## Ohmyz sh
 - sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 - open .zshrc
 - https://github.com/zeoe/mac-setup
@@ -16,8 +14,8 @@ https://www.youtube.com/watch?v=ZcVdpkSako4
 ## Iterm2
 - brew install --cask iterm2
 - git clone https://github.com/bchiang7/halcyon-iterm.git
-- Git clone https://github.com/powerline/fonts
-- Setup config in iterm2
+- git clone https://github.com/powerline/fonts
+- setup config in iterm2 (https://www.youtube.com/watch?v=ZcVdpkSako4)
 
 ## Apps
 - brew install --cask firefox
