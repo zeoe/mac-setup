@@ -26,7 +26,8 @@
 - brew install --cask steam
 - brew install --cask discord
 - brew install --cask intellij-idea
-- brew install --cask brackets
+- brew install --cask bracket
+- brew install --cask docker
 
 ## SSH
 - download private key from cloud (Bienfait, github)
