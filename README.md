@@ -28,6 +28,8 @@
 - brew install --cask intellij-idea
 - brew install --cask bracket
 - brew install --cask docker
+- brew install --cask rectangle
+- brew install --cask alt-tab
 
 ## SSH
 - download private key from cloud (Bienfait, github)
