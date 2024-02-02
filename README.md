@@ -30,6 +30,7 @@
 - brew install --cask docker
 - brew install --cask rectangle
 - brew install --cask alt-tab
+- brew install --cask pdfelement
 
 ## SSH
 - download private key from cloud (Bienfait, github)
