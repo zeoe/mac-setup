@@ -31,6 +31,7 @@
 - brew install --cask rectangle
 - brew install --cask alt-tab
 - brew install --cask pdfelement
+- curl -s "https://get.sdkman.io" | bash
 
 ## SSH
 - download private key from cloud (Bienfait, github)
