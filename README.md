@@ -34,6 +34,7 @@
 - curl -s "https://get.sdkman.io" | bash
 - Follow instructions on https://sdkman.io/usage
 - brew install node
+- brew install --cask postman
 
 ## SSH
 - download private key from cloud (Bienfait, github)
