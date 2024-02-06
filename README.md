@@ -34,6 +34,7 @@
 - curl -s "https://get.sdkman.io" | bash
 - Follow instructions on https://sdkman.io/usage
 - brew install node
+- brew install angular-cli
 - brew install --cask postman
 
 ## SSH
