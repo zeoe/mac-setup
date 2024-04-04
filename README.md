@@ -36,6 +36,7 @@
 - brew install node
 - brew install angular-cli
 - brew install --cask postman
+- brew install --cask nvidia-geforce-now
 
 ## SSH
 - download private key from cloud (Bienfait, github)
