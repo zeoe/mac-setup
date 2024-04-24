@@ -35,6 +35,7 @@
 - Follow instructions on https://sdkman.io/usage
 - brew install node
 - brew install angular-cli
+- brew install maven
 - brew install --cask postman
 - brew install --cask nvidia-geforce-now
 
