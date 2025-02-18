@@ -2,7 +2,7 @@
 
 ## Homebrew
 - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-- (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/zerdusozkan/.zprofile
+- (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/{your-username}/.zprofile
 - eval "$(/opt/homebrew/bin/brew shellenv)"
 - brew help
 
