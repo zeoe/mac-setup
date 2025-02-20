@@ -26,7 +26,7 @@
 - brew install --cask steam
 - brew install --cask discord
 - brew install --cask intellij-idea
-- brew install --cask bracket
+- brew install --cask brackets
 - brew install --cask docker
 - brew install --cask rectangle
 - brew install --cask alt-tab
