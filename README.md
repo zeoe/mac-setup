@@ -6,16 +6,16 @@
 - eval "$(/opt/homebrew/bin/brew shellenv)"
 - brew help
 
-## ohmyz sh
-- sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-- open .zshrc
-- [copy zshrc config](https://github.com/zeoe/mac-setup/blob/main/.zshrc)
-
 ## Iterm2
 - brew install --cask iterm2
 - git clone https://github.com/bchiang7/halcyon-iterm.git
 - git clone https://github.com/powerline/fonts
 - setup config in iterm2 https://www.youtube.com/watch?v=ZcVdpkSako4
+
+## ohmyz sh on Iterms2
+- sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+- open .zshrc
+- [copy zshrc config](https://github.com/zeoe/mac-setup/blob/main/.zshrc)
 
 ## Apps
 - brew install --cask firefox
