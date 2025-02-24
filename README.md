@@ -8,8 +8,6 @@
 
 ## Iterm2
 - brew install --cask iterm2
-- git clone https://github.com/bchiang7/halcyon-iterm.git
-- git clone https://github.com/powerline/fonts
 - setup config in iterm2 https://www.youtube.com/watch?v=ZcVdpkSako4
 
 ## ohmyz sh on Iterms2
