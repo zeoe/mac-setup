@@ -28,6 +28,7 @@
 - brew install --cask docker
 - brew install --cask rectangle
 - brew install --cask alt-tab
+- brew install --cask maccy
 - brew install --cask pdfelement
 - curl -s "https://get.sdkman.io" | bash
 - Follow instructions on https://sdkman.io/usage
