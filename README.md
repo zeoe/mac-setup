@@ -39,6 +39,8 @@
 - brew install --cask postman
 - brew install --cask nvidia-geforce-now
 - brew install awscli
+- brew install --cask figma
+  
 
 ## SSH
 - download private key from cloud (Bienfait, github)
