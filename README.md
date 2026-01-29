@@ -41,6 +41,7 @@
 - brew install awscli
 - brew install --cask figma
 - brew install --cask codex
+- brew install gh
   
 ## SSH
 - download private key from cloud (Bienfait, github)
